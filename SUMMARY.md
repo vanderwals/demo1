@@ -1,6 +1,6 @@
 # Table of contents
 
 * [GitBook](README.md)
-* [md预览](md-yu-lan/README.md)
-  * [在线 MarkDown 编辑器](md-yu-lan/zai-xian-markdown-bian-ji-qi.md)
-* [Page 1](page-1.md)
+* [MD Preview](md-preview/README.md)
+  * [在线 MarkDown 编辑器](md-preview/zai-xian-markdown-bian-ji-qi.md)
+* [New Page](new-page.md)
