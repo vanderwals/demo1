@@ -2,9 +2,9 @@
 description: GitBook的简介
 ---
 
-# GitBook132
+# GitBook
 
-GitBook的内容
+GitBook的内容GitBook的内容GitBook的内容GitBook的内容GitBook的内容
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
