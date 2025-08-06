@@ -9,9 +9,9 @@
       "src": "https://sharkfoto.gitbook.io/blog/~gitbook/image?url=https%3A%2F%2F1388671580-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaOwWwfAj7N5yqoSr3Hlz%252Ficon%252Fh53FgFj8HlyUbme26Oed%252Fsharkfoto_ico.png%3Falt%3Dmedia%26token%3D46911ec4-eb74-4c3d-885b-017b26e3aeb3&width=32&dpr=4&quality=100&sign=ec6f5c4d&sv=2",
       "alt": "SharkFoto Logo",
       "width": 48,
-      "height": 48
-    },
-    "to": "https://www.google.com"
+      "height": 48,
+      "to": "https://www.google.com"
+    }
   },
 
   // 主题色配置
