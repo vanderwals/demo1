@@ -1,6 +1,6 @@
 # Blog Config
 
-```json
+```javascript
 {
   // 网站基本信息
   "site": {
